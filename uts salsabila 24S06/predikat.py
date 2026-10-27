@@ -20,6 +20,6 @@ else:
     print("Status: Tidak Lulus")
     print("Predikat: D")
 
-    for angka in range(1, 21):
+for angka in range(1, 21):
         if angka % 2 != 0:
             print(angka)
